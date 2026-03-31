@@ -2,8 +2,8 @@
 
 **Test Release** – In-game GTA servers browser app for FiveM, now available for testing.
 
-![FiveM Browser Screenshot](https://imgur.com/lHv6pZt.jpeg)
-
+![FiveM Browser About](https://imgur.com/lHv6pZt.jpeg)
+![FiveM Browser Main](https://imgur.com/1bxuHmI.jpeg)
 ## Description
 FiveM-Browser is a lightweight in-game browser designed for FiveM servers. This repository hosts the **test release**, intended for developers and testers to explore functionality and provide feedback.  
 
