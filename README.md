@@ -35,3 +35,8 @@ FiveM-Browser is a lightweight in-game browser designed for FiveM servers. This 
 | Offline | No internet connection or server unavailable |
 | Error | Browser failed to load content. Report bugs here: [GitHub Issues](https://github.com/nocapscripts/FiveM-Browser/issues) |
 
+
+## FIXES & UPDATES
+- Fixed app store sign
+
+
