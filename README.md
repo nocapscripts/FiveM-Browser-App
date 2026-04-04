@@ -1,6 +1,6 @@
 # FiveM-Browser App 🖥️
 
-**[WEBSITE](https://fivembrowser.vercel.app/)** - This is the server list website
+**[WEBSITE](https://fivembrowser.vercel.app/)** - This is the server list website **Website Blocked due api abuse**
 
 **Test Release Android** – In-game GTA servers browser app for FiveM, now available for testing.
 
