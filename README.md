@@ -40,6 +40,6 @@ FiveM-Browser is a lightweight in-game browser designed for FiveM servers. This 
 
 ## GET LATEST 
 
-[LATEST](https://github.com/nocapscripts/FiveM-Browser-App/releases/tag/pre-release)
+[LATEST APP](https://github.com/nocapscripts/FiveM-Browser-App/releases/tag/v1.0.5)
 
 
