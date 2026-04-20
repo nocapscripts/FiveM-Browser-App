@@ -2,6 +2,10 @@
 
 **[WEBSITE](https://fivembrowser.vercel.app/)** - This is the server list website 
 
+## Get latest app for phone (Currently supported Android)
+
+[LATEST APP](https://github.com/nocapscripts/FiveM-Browser-App/releases/tag/v1.0.5)
+
 **Test Release Android** – In-game GTA servers browser app for FiveM, now available for testing.
 
 ![FiveM Browser About](https://i.imgur.com/lHv6pZt.jpeg)
@@ -38,8 +42,6 @@ FiveM-Browser is a lightweight in-game browser designed for FiveM servers. This 
 | Error | Browser failed to load content. Report bugs here: [GitHub Issues](https://github.com/nocapscripts/FiveM-Browser/issues) |
 
 
-## GET LATEST 
 
-[LATEST APP](https://github.com/nocapscripts/FiveM-Browser-App/releases/tag/v1.0.5)
 
 
