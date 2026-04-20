@@ -2,7 +2,7 @@
 
 **[WEBSITE](https://fivembrowser.vercel.app/)** - This is the server list website 
 
-## Get latest app for phone (Currently supported Android)
+## Get latest app for phone (Currently supported Android) 📱
 
 [LATEST APP](https://github.com/nocapscripts/FiveM-Browser-App/releases/tag/v1.0.5)
 
