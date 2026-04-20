@@ -4,7 +4,7 @@
 
 ## Get latest app for phone (Currently supported Android) 📱
 
-[LATEST APP](https://github.com/nocapscripts/FiveM-Browser-App/releases/tag/v1.0.5)
+**[LATEST APP](https://github.com/nocapscripts/FiveM-Browser-App/releases/tag/v1.0.5)**
 
 **Test Release Android** – In-game GTA servers browser app for FiveM, now available for testing.
 
